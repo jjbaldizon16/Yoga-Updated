@@ -636,6 +636,88 @@ font-size: 25px;
 	top:1px;
 }
 
+footer {
+
+height: 400px;
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+
+
+
+}
+
+.footer-description {
+
+display: flex;
+flex-direction: column;
+flex-wrap: wrap;
+flex-basis: 37%;
+margin-left: 3%;
+
+
+}
+
+.footer-element {
+
+display: flex;
+flex-direction: column;
+flex-wrap: wrap;
+flex-basis: 18%;
+margin-left: 2%;
+
+}
+
+.follow-row {
+
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+
+}
+
+.footer-title {
+
+color: #529995;
+margin-top: 20%;
+
+}
+
+.footer-letter {
+
+color: #529995;
+margin-top: 5%;
+
+}
+
+.footer-about-title {
+
+color: #529995;
+margin-top: 37%;
+
+}
+
+.footer-services-title {
+
+color: #529995;
+margin-top: 37%;
+
+}
+
+.footer-follow-title {
+
+color: #529995;
+margin-top: 37%;
+
+}
+
+.footer-link {
+
+color: #529995;
+margin-top: 5%;
+
+}
+
 
 
 
