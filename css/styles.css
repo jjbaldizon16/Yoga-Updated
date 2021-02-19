@@ -718,6 +718,23 @@ margin-top: 5%;
 
 }
 
+.social-link {
+
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	
+	           }
+
+.social-icon {
+
+   width: 24px;
+   height: 24px;
+
+}
+
+
+
 
 
 
