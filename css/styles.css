@@ -10,7 +10,7 @@
 .banner-01 {
 
 height: 789px;
-background-color: white;
+background-color: #ffff;
 display: flex;
 flex-direction: column;
 flex-wrap: wrap;
@@ -850,7 +850,98 @@ margin-left: 0%;
 
 }
 
+.pricing-background {
 
+height: 370px;
+
+}
+
+.pricing-button {
+
+width: 60%;
+
+}
+
+
+}
+
+@media screen and (max-width: 415px) {
+
+ .banner-02 {
+
+  flex-direction: column;
+
+
+
+ }
+
+ .banner-title {
+
+   margin-top: 5% 
+
+ }
+
+ .meditation-img {
+
+  width: 100%;
+
+ }
+
+ .chose-class {
+
+  height: 1900px;
+
+ }
+
+ .classes-list {
+
+ flex-direction: column;
+
+ }
+
+ .chose-class-description {
+
+  width: 87%;
+
+ }
+
+ .class-description {
+
+   width: 87%;
+   margin-left: 5%;  
+
+
+ }
+
+ .class-photo {
+
+ width: 100%;
+
+ }
+
+ .our-stats {
+
+  height: 1200px;
+
+ }
+
+ .our-stats-description {
+
+ width: 87%;
+
+ }
+
+ .our-stats-list {
+
+  flex-direction: column; 
+
+ }
+
+ .our-stats-circle {
+
+  margin-top: 14%;
+
+ }
 
 
 }
