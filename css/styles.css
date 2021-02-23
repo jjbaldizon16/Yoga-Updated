@@ -943,6 +943,114 @@ width: 60%;
 
  }
 
+ .best-instructor {
+
+ height: 1100px;
+ flex-direction: column;
+
+
+ }
+
+
+ .best-instructor-title {
+
+ margin-top: 30%;
+
+ }
+
+ .best-instructor-description {
+
+  width: 88%;
+  margin-left: 3%;
+
+ }
+
+ .background-photo {
+	
+  background-size: 100% 100%;
+  margin-left: 0%;
+
+ 
+
+ }
+
+ .new-experience {
+
+  height: 1100px;
+  flex-direction: column;
+
+ }
+
+ .new-experience-title {
+
+ margin-top: 25%;
+
+ }
+
+ .new-experience-photo {
+
+ background-size: 100% 100%;
+
+
+ }
+
+ .pricing {
+
+  height: 1485px;
+
+ }
+
+ .pricing-description {
+
+ width: 90%;
+
+ }
+
+ .pricing-list {
+
+ flex-direction: column;
+
+ }
+
+ .pricing-background {
+
+  margin-bottom: 10%;
+
+ }
+
+ .trainer-name {
+
+  height: 1100px;
+
+ }
+
+ .trainer-description {
+
+  width: 88%;
+
+ }
+
+ .trainer-title {
+
+ width: 90%;
+ margin-top: 15%;
+
+ }
+
+ .update-description {
+
+  width: 90%;
+
+ }
+
+ .suscribe {
+
+ flex-direction: column;
+
+ }
+
+ 
+
 
 }
 
